@@ -1,0 +1,13 @@
+[
+    {
+        "serial_port_name": "/dev/cu.usbmodem4101",
+        "baud": 38400,
+        "midi_channel": 0
+    },
+    {
+        "serial_port_name": "/dev/cu.usbmodem4201",
+        "baud": 38400,
+        "midi_channel": 1
+    }
+
+]
